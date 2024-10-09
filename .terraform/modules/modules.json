@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"eks-module","Source":"git::https://github.com/ooghenekaro/my-eks-module.git","Dir":".terraform/modules/eks-module"}]}
